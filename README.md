@@ -10,7 +10,7 @@ URL - https://console.developers.google.com
 2) Create OAuth Consent Screen for Application.  
  3) Enable Gmail API.  
 4) Create OAuth 2.0 Client Id to access Gmail API.
-5) Export this project.
+5) Clone this project.
 6) Open the Console Application in Visual Studio 2019 or later versions.
 7) Open NuGet Package Manager Console & run this below command. 
    Install-Package Google.Apis.Gmail.v1   
