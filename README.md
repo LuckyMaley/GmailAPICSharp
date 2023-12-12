@@ -1,3 +1,6 @@
+This console app uses the GMAIL API to read emails, nested emails, Mail Subject, Body, Date, From Email addresses, and reads Attachments files of an email.     
+
+
 Steps to setup Gmail API Console Application
 
 Configure Google Developer console for Gmail API 
